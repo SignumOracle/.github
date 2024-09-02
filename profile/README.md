@@ -2,7 +2,7 @@
 
 🙋 **What is Signum?**
 
-is an immutable decentralized oracle protocol that incentivizes an open, permissionless network of data reporting and data validation, ensuring that data can be provided by anyone and checked by everyone.
+Signum is an immutable decentralized oracle protocol that incentivizes an open, permissionless network of data reporting and data validation, ensuring that data can be provided by anyone and checked by everyone.
 
 ↘️ **Core Repositories**
 
