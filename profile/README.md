@@ -9,7 +9,7 @@ Signum is an immutable decentralized oracle protocol that incentivizes an open, 
 | Link                                                                 | Description                                                                                    |
 | -------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
 | [UsingTellor](https://github.com/SignumOracle/usingtellor)           | User Library Package                                                                           |
-| [Signum Contracts](https://github.com/SignumOracle/signum-contracts) | Signum Contract                                                                                |
+| [Signum Contracts](https://github.com/SignumOracle/signum-contracts) | Signum Contracts                                                                                |
 | [Dataspecs](https://github.com/SignumOracle/dataSpecs)               | Contains specifications of data requested from, reported to, and retrieved from Signum oracles |
 | [SignumFeeds](https://github.com/SignumOracle/signum-feeds)         | This package contains reporting tools and datafeeds for Signum oracles.                        |
 
